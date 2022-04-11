@@ -1,0 +1,57 @@
+html{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #c0c0c0 !important;
+}
+
+form{
+    background-color: white;
+    max-width: 500px;
+    width: 70%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form #titulo{
+    text-align: left;
+    background-color: #03504e;
+    color: white;
+    margin-top: 0;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+#campo-nome,
+form input[name=email],
+form input[name=celular]{
+    width: 95.5%;
+    height: 45px;
+    border-bottom: 1px solid #003b36;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin: 10px;
+}
+
+form input[type=submit]{
+    width: 90%;
+    height: 30px;
+    cursor: pointer;
+    background: #f6921e;
+    color: white;
+    border: 0;
+    font-family: sans-serif;
+    margin: 5%;
+}
+
+form h4{
+    font-size: 17px;
+    padding: 10px;
+}
