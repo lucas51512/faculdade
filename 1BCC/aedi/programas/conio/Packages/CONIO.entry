@@ -1,0 +1,15 @@
+[Setup]
+AppName=CONIO
+AppVersion=2.1
+
+[Files]
+D:/Download/C++/docs/conio21.chm
+D:/Download/C++/examples/conio/conio_test.c
+D:/Download/C++/examples/conio/constream_test.cpp
+D:/Download/C++/include/conio2.h
+D:/Download/C++/include/constream
+D:/Download/C++/lib/libconio.a
+D:/Download/C++/lib/libconio_64.a
+D:/Download/C++/lib/libconio_unicode.a
+D:/Download/C++/lib/libconio_unicode_64.a
+D:/Download/C++/conio.DevPackage
